@@ -20,7 +20,7 @@ Um aplicativo web simples para pesquisar informações sobre atletas brasileiros
 * **app.js:** Lógica principal da aplicação, incluindo a função de pesquisa e a interação com o DOM.
 
 ### Como Rodar
-1. **Clonar o repositório:** `git clone https://[seu-repositorio]`
+1. **Clonar o repositório:** `git clone https://[Andrerr1980/Olimpiadas]`
 2. **Abrir o arquivo:** Abra o arquivo `index.html` em um navegador web.
 
 ### Estrutura dos Dados (dados.js)
